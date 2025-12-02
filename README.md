@@ -2,7 +2,7 @@
 
 Snibbo is a sleek and fast online code compiler supporting multiple languages for code execution. Whether you're learning to code, testing snippets — Snibbo makes compiling easier, faster, and more accessible. 🚀
 
----
+![SnibboDemo](https://github.com/KrishBharadwaj5678/Snibbo/raw/main/SnibboDemo.png)
 
 ## ✨ Features
 
@@ -49,50 +49,12 @@ npm run dev
 
 ---
 
-## 🙌 Contributing
+## Contributing 🤝
 
-Contributions are welcome!
+Want to contribute? Here's how:
 
-1. 🍴 **Fork the repository**  
-
-2. 📥 **Clone your fork**  
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/Snibbo.git
-   cd Snibbo
-   ````
-
-3. 🌿 **Create a new branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. 📦 **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-5. ✍️ **Make your changes**
-
-6. 🔍 **Test your changes**
-
-   ```bash
-   npm run dev
-   ```
-
-7. 💾 **Commit your changes**
-
-   ```bash
-   git add .
-   git commit -m "Add feature: description of feature"
-   ```
-
-8. 🚀 **Push your branch**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-9. 🔀 **Open a Pull Request**
-    - Go to the original repository and submit a pull request explaining your changes.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
